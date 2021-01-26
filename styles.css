@@ -1,11 +1,14 @@
 
 h2 {
-   background: red;
+   background: lightgreen;
 }
 nav {
-  background: red;
+  background: lightgreen;
 }
 div
 {
-  background: lightblue;
+  background: grey;
+}
+nav1 {
+  background: red;
 }
