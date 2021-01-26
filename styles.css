@@ -1,6 +1,4 @@
 
 h2 {
-  background-color: grey;
-  color: black;
- 
+  color: var(--bs-blue);
 }
