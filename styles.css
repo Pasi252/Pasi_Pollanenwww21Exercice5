@@ -1,9 +1,9 @@
 
 h2 {
-  color: var(--bs-blue);
+  color: var(--bs-red);
 }
 nav {
-  background: lightgrey;
+  background: red;
 }
 div
 {
